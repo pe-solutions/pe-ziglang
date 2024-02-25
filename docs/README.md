@@ -1,2 +1,5 @@
-# pe-ziglang
-Project Euler solutions in Zig
+# Zig Project Euler solutions
+
+<p align="center"><img src="logo.png"></p>
+
+**WIP**...

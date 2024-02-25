@@ -38,7 +38,7 @@ pub fn evenFibonacciNumbers() u32 {
         a = b;
         b = c;
         
-        // Calculate next saquence
+        // Calculate next sequence
         c = a + 4*b;
     }
 

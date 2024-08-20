@@ -1,5 +1,5 @@
-// Even Fibonacci Numbers
-// https://projecteuler.net/problem=2
+//! Even Fibonacci Numbers
+//! https://projecteuler.net/problem=2
 
 const std = @import("std");
 const time = std.time;

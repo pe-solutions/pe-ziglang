@@ -1,5 +1,5 @@
-// Largest Prime Factor
-// https://projecteuler.net/problem=3
+//! Largest Prime Factor
+//! https://projecteuler.net/problem=3
 
 const std = @import("std");
 const time = std.time;
